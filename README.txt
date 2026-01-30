@@ -1,0 +1,1 @@
+To run the experiments, run the files mallows_experiment.py, dating_experiment.py, and tiered_experiment.py. 
